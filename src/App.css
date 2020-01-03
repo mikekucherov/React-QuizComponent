@@ -29,6 +29,10 @@ button {
   margin: 0.6em auto;
   font-size: 1.5em;
   display: block;
+  width: 64px;
+  height: 64px;
+  background: linear-gradient(to right, #f953c6, #b91d73);
+  border: none;
 }
 .error {
   color: red;
